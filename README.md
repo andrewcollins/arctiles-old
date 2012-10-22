@@ -11,6 +11,10 @@ Color band thickness reacts to mouse position.
 
 Modify `cols`, `rows`, and `cellSize` to change art size.
 
+Try it out: <http://inrgbwetrust.com/arcs/>
+
+&nbsp;
+
 ![one](http://25.media.tumblr.com/4upGQ0gPqn4cc703DPtLfML4o1_500.png)
 
 ![two](http://24.media.tumblr.com/4upGQ0gPqna3hwa61wvXYGoio1_500.png)
