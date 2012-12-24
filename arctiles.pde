@@ -1,6 +1,6 @@
-int cols = 6;
-int rows = 4;
-int cellSize = 200;
+int cols = 8;
+int rows = 5;
+int cellSize = 150;
 float innerRadDiv = 1.5;
 int[][] directions;
 int radius1, radius2 = cellSize/2;
